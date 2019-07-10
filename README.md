@@ -8,6 +8,8 @@ Version 1 is jQuery dependent. Recommended to use this. Works better.
 
 Version 2 is pure JavaScript. No dependency.
 
+Here is the online link of this JS file : http://www.samprit.ml/js/removebanner.js
+
 Just add this script at the bottom of your page. It will remove the 000webhost branding from your page.
 
 Full credit to 000webhost from providing us this free web hosting services.
